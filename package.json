@@ -1,0 +1,19 @@
+{
+  "name": "nextapp",
+  "version": "1.0.0",
+  "description": "Aplicacion con SSR",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Yerson Soto",
+  "license": "ISC",
+  "devDependencies": {
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.0.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
